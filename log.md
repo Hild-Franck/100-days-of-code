@@ -23,3 +23,11 @@
 **Thoughts**: Refactoring someone else code was kind of funny. The code was monolitic with some duplicated code, so there were works to do. Didn't commit yet tho.
 
 **Link to work**: [Fork](https://github.com/Hild-Franck/hapi-cron-job)
+
+### Day 3: January 13, 2017
+
+**Today's Progress**: Some research about air physics in a jump
+
+**Thoughts**: The physics are already pretty neat, but they use linear functions. I have to try more physics calculation, like exponential functions or square functions.
+
+**Link to work**: [Jump Research](https://github.com/Hild-Franck/jump-research)
