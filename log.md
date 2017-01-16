@@ -31,3 +31,12 @@
 **Thoughts**: The physics are already pretty neat, but they use linear functions. I have to try more physics calculation, like exponential functions or square functions.
 
 **Link to work**: [Jump Research](https://github.com/Hild-Franck/jump-research)
+
+### Day 4: January 15, 2017
+
+**Today's Progress**: Set two new projects up
+
+**Thoughts**: I just started two new repo to test few things about microservices. Can't wait to see what kind of stuff my researches will lead to !
+
+**Link to work**: [Client](https://github.com/Hild-Franck/BE-Project-client)
+**Link to work**: [Router](https://github.com/Hild-Franck/BE-Project-router)
