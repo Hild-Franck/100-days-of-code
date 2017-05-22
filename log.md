@@ -41,6 +41,14 @@
 **Link to work**: [Client](https://github.com/Hild-Franck/BE-Project-client)
 **Link to work**: [Router](https://github.com/Hild-Franck/BE-Project-router)
 
+### Day 5: January 16, 2017
+
+**Today's Progress**: Refactoring. Refactoring. Refactoring. Did I miss something ?
+
+**Thoughts**: Weeeeeeell, lot of work to refactor a forked repo. So much to do. Send help.
+
+**Link to work**: [Fork](https://github.com/Hild-Franck/hapi-cron-job)
+
 ## RESTART
 ### Day 1: May 22, 2017
 
