@@ -40,3 +40,12 @@
 
 **Link to work**: [Client](https://github.com/Hild-Franck/BE-Project-client)
 **Link to work**: [Router](https://github.com/Hild-Franck/BE-Project-router)
+
+## RESTART
+### Day 1: May 22, 2017
+
+**Today's Progress**: Set one new project up
+
+**Thoughts**: I just started one new repo about rpc through http and tis implemetation in an async code.
+
+**Link to work**: [Http RPC](https://github.com/Hild-Franck/http-rpc)
