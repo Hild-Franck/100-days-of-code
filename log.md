@@ -57,3 +57,11 @@
 **Thoughts**: I just started one new repo about rpc through http and tis implemetation in an async code.
 
 **Link to work**: [Http RPC](https://github.com/Hild-Franck/http-rpc)
+
+### Day 2: May 24, 2017
+
+**Today's Progress**: Started a new project (again) about services communication with AMQP protocol
+
+**Thoughts**: Yesterday I tried to build a service to service communication system, easy to use and maintain. I think it started great ! :D
+
+**Link to work**: [Http RPC](https://github.com/Hild-Franck/amqplib-rpc-services)
