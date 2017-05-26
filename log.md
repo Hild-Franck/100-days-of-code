@@ -65,3 +65,11 @@
 **Thoughts**: Yesterday I tried to build a service to service communication system, easy to use and maintain. I think it started great ! :D
 
 **Link to work**: [Http RPC](https://github.com/Hild-Franck/amqplib-rpc-services)
+
+### Day 3: May 25, 2017
+
+**Today's Progress**: Network discovery over http
+
+**Thoughts**: My http rpc project is now a little more ambitious. I want to try to set a peer to peer service discovery and communication. Each service shall have ALL the network status stored AND must notify all other services if their own status change.
+
+**Link to work**: [Http RPC](https://github.com/Hild-Franck/http-rpc)
