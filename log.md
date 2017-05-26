@@ -73,3 +73,11 @@
 **Thoughts**: My http rpc project is now a little more ambitious. I want to try to set a peer to peer service discovery and communication. Each service shall have ALL the network status stored AND must notify all other services if their own status change.
 
 **Link to work**: [Http RPC](https://github.com/Hild-Franck/http-rpc)
+
+### Day 4: May 26, 2017
+
+**Today's Progress**: Testing for the http rpc project
+
+**Thoughts**: The http thing is looking good. I don't thimk I'll kepp saying that in its advanced state. I also tried to learn webGL again. That was... Difficult. At least.
+
+**Link to work**: [Http RPC](https://github.com/Hild-Franck/http-rpc)
